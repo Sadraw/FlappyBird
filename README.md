@@ -1,11 +1,11 @@
 # FlappyBird 
 
-A fun game to build and play! 
+<p align="center"> A fun game to build and play! </p> 
 
 
 
 <p align="center">
-  <img src="https://github.com/Sadraw/BoJack-Horseman-game/blob/main/images/website.gif" />
+  <img src="https://github.com/Sadraw/FlappyBird/blob/main/images/FlappyBird.png" />
 </p>
 
 
