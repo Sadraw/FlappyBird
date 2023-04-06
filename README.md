@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Sadraw/FlappyBird/blob/main/images/FlappyBird.png" />
+  <img src="https://github.com/Sadraw/FlappyBird/blob/main/images/flappybird.gif" />
 </p>
 
 
